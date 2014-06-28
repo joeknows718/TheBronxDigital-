@@ -1,4 +1,4 @@
-TheBronxDigital- Learn_Creat_Collaborate 
+TheBronxDigital- Learn_Create_Collaborate 
 ================
 
-All Bronx Digital Files and Project - for the people.
+The platform for the Bronx Digital movement. Open source on github. 
